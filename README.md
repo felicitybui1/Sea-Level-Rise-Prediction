@@ -56,3 +56,9 @@ Following data cleaning and analysis, we constructed models for localized predic
     - The best model yielded an RMSE of 34.54.
 ![image](https://github.com/felicitybui1/Sea-Level-Rise-Prediction/assets/168895497/7b4a4238-cb3c-4dc6-bf88-8d2edcfd4489)
 
+## Project Application Limitations:
+Environmental analytics is a developing field, and improvements are needed for it to be as concrete as SEC filings and reports. Consistent regulation and data collection are essential for a better business operations understanding. 
+
+- **Scope Differences**: As highlighted by Jung, Santos, and Seltzer, Scope 1 and Scope 3 environmental impacts differ significantly because not every country has the ability or desire to measure their footprint consistent to an international standard.
+- **Data Collection Methods**: Comparing to tide gauge data, satellite data collection method offers a more direct, unbiased global approach to measuring sea-level changes.
+- **Regional Forecasting**: While we localized a model for New York City and Long Island, assuming the global model forecast holds true for all coastlines may not be appropriate without regional data.
