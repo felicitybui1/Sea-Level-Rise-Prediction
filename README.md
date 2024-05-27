@@ -37,6 +37,8 @@ This project seeks to combine regression and ARIMA models to build an ARIMAX mod
 
 
 
+<br>
+
 
 ### Localized Scope: New York City and Long Island
 ![image](https://github.com/felicitybui1/Sea-Level-Rise-Prediction/assets/168895497/f6901072-62c7-450c-a67d-8c621286de6e)
